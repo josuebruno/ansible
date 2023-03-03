@@ -1,0 +1,1 @@
+ansible-playbook playbook_ansible.yaml -i hosts
